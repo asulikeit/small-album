@@ -43,6 +43,7 @@
 - django-admin startproject smallalbum .
 - mkdit apps && cd apps
 - django-admin startapp domain1
+- cd ..
 - python manage.py runserver
 - ^C
 
