@@ -41,7 +41,8 @@
 - pip freeze >> requirements.txt
 
 - django-admin startproject smallalbum .
-
+- mkdit apps && cd apps
+- django-admin startapp domain1
 - python manage.py runserver
 - ^C
 
